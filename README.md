@@ -35,3 +35,7 @@ Evaluation Metrics: Detailed reports including Confusion Matrix, Precision, Reca
 
 📈 Results
 The final model achieved an accuracy of Ensembling the accuracy score is 86.88%. Key findings suggest that exercise-induced angina, chest pain, is a major symptom of a heart attack. were the most significant predictors of heart attack risk.
+
+
+Author
+Suffisant Madhikarmi
